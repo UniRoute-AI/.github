@@ -19,7 +19,7 @@
 
 ## About
 
-**Route AI** helps students find the right university, scholarship, and visa path for studying abroad — matched to them by AI, not generic search results.
+**Route AI**, built by **UniRoute AI**, helps students find the right university, scholarship, and visa path for studying abroad — matched to them by AI, not generic search results.
 
 Choosing where to study abroad usually means digging through scattered, outdated, and conflicting information spread across hundreds of university websites, forums, and agents. Route AI replaces that with one place: verified admission deadlines, real program details, and personalized matching, backed by an AI assistant that actually answers your questions with sources.
 
@@ -53,5 +53,5 @@ Route AI is in active development, with a public launch targeted for **December 
 ---
 
 <div align="center">
-<sub>Route AI is built and maintained by UniRoute AI.</sub>
+<sub>© 2026 UNIROUTE AI TECHNOLOGIES (SMC-PRIVATE) LIMITED</sub>
 </div>
