@@ -7,7 +7,9 @@
 
 <div align="center">
 
-### AI-powered study abroad guidance — built by UniRoute AI
+<img src="https://avatars.githubusercontent.com/UniRoute-AI" width="20" height="20" style="vertical-align:middle;" />&nbsp;**by UniRoute AI**
+
+### AI-powered study abroad guidance
 
 [![Website](https://img.shields.io/badge/Website-unirouteai.com-orange?style=flat-square)](https://www.unirouteai.com)
 [![Try Route AI](https://img.shields.io/badge/Try-Route%20AI-blue?style=flat-square)](https://routeai.unirouteai.com)
