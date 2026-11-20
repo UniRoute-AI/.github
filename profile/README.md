@@ -1,7 +1,9 @@
-<h1 align="center">
-  <img src="https://avatars.githubusercontent.com/UniRoute-AI" width="40" height="40" align="center" style="vertical-align: middle;" />
-  &nbsp;Route AI
-</h1>
+<table align="center" border="0">
+<tr>
+<td><img src="https://avatars.githubusercontent.com/UniRoute-AI" width="60" height="60" /></td>
+<td><h1 style="margin:0;">Route AI</h1></td>
+</tr>
+</table>
 
 <div align="center">
 
