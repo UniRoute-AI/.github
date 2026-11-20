@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/UniRoute-AI" width="90" alt="Route AI logo" />
-
-# Route AI
+<img src="https://avatars.githubusercontent.com/UniRoute-AI" width="72" height="72" alt="Route AI logo" align="center" />
+<h1 align="center">&nbsp;&nbsp;Route AI</h1>
 
 ### AI-powered study abroad guidance — built by UniRoute AI
 
