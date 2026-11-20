@@ -1,13 +1,14 @@
 <table align="center" border="0">
 <tr>
-<td><img src="https://routeai.unirouteai.com/routeai-logo.png" width="60" height="60" /></td>
-<td><h1 style="margin:0;">Route AI</h1></td>
+<td><img src="https://routeai.unirouteai.com/routeai-logo.png" width="50" height="50" /></td>
+<td><h2 style="margin:0;">Route AI</h2></td>
+<td>&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+<td><img src="https://avatars.githubusercontent.com/UniRoute-AI" width="40" height="40" /></td>
+<td><h3 style="margin:0;">UniRoute AI</h3></td>
 </tr>
 </table>
 
 <div align="center">
-
-<img src="https://avatars.githubusercontent.com/UniRoute-AI" width="20" height="20" style="vertical-align:middle;" />&nbsp;**by UniRoute AI**
 
 ### AI-powered study abroad guidance
 
