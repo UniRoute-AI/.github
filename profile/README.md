@@ -1,6 +1,6 @@
 <table align="center" border="0">
 <tr>
-<td><img src="https://avatars.githubusercontent.com/UniRoute-AI" width="60" height="60" /></td>
+<td><img src="https://routeai.unirouteai.com/routeai-logo.png" width="60" height="60" /></td>
 <td><h1 style="margin:0;">Route AI</h1></td>
 </tr>
 </table>
